@@ -1,0 +1,11 @@
+
+p {
+    color: black;
+    font-family: 'Proxima Nova', 'Signika', 'EB Garamond';
+}
+
+
+.container .text {
+    font-size: 64px;
+    background-color: purple;
+}
